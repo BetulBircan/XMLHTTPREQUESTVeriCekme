@@ -1,0 +1,16 @@
+table {
+    /* buttonla table arasında boşluk oluşturma */
+    margin: 10px;
+    /* tablonun sınır çizgisini oluşturmak için kullanılan stil kodları */
+    border: 5px solid #ddd;
+}
+/* tablonun başlıkları:userid,username..... */
+th {
+    /* tablonun sınır çizgisini oluşturmak için kullanılan stil kodları */
+    border: 1px solid #ddd;
+}
+/* tablonun sütunları için */
+td {
+    /* tablonun sınır çizgisini oluşturmak için kullanılan stil kodları */
+    border: 1px solid #ddd;
+}
