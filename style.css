@@ -14,3 +14,17 @@ td {
     /* tablonun sınır çizgisini oluşturmak için kullanılan stil kodları */
     border: 1px solid #ddd;
 }
+
+/* sayfanın body kısmına oluşturulan stil kodları */
+body{
+    text-align: center;
+    background-color:blanchedalmond;
+}
+/* bu da buton,p gibi html etiketlerini ortalamak için oluşturulan stil kodları */
+.ortala2 {
+  /*sağdan ve soldan otomatik olarak ortlama soldan olarak  */
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: left;
+}
